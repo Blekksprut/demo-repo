@@ -1,6 +1,6 @@
 # Demo2
 
-Some text
+Some text that I changed on GitHub
 
 ## Subheader
 
